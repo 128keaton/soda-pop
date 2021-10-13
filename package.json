@@ -28,5 +28,8 @@
   },
   "files": [
     "/dist"
-  ]
+  ],
+  "dependencies": {
+    "soda-js": "^0.2.3"
+  }
 }
